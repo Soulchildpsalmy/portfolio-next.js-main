@@ -94,7 +94,7 @@ This is a dynamic prototype web application built to showcase our team’s techn
 ```cd /portfolio-next.js-main```
 - Confirmed landing page renders via EC2 public IP(18.212.201.4)
 
-<img width="1664" alt="Main Page Displayed on EC2 IP" src="https://github.com/Soulchildpsalmy/portfolio-next.js-main/tree/main/components/images/local-index.JPG" />
+<img width="1664" alt="Main Page Displayed on EC2 IP" src="/components/images/local-index.JPG" />
 
 5. **Set Up Node.js App**
 ```npm install```
@@ -118,7 +118,7 @@ This is a dynamic prototype web application built to showcase our team’s techn
   
 - Linked Domain to EC2 IP
 
-<img width="1395" alt="Domain Linked to IP" src="https://github.com/Soulchildpsalmy/portfolio-next.js-main/tree/main/components/images/duckdns.JPG" />
+<img width="1395" alt="Domain Linked to IP" src="/components/images/duckdns.JPG" />
 
 [Landing Page rendered on Duck DNS domain](https://uyime-oku.duckdns.org/)
 
@@ -151,7 +151,7 @@ This is a dynamic prototype web application built to showcase our team’s techn
 
 6. **Site Live and Secured**
 
-<img width="1503" alt="Site Secured" src="https://github.com/Soulchildpsalmy/portfolio-next.js-main/tree/main/components/images/local-index.JPG" />
+<img width="1503" alt="Site Secured" src="/components/images/rendered-page.JPG" />
 
 👨‍💻 About Me
 Uyime Oku is a cloud-savvy product leader and engineer, experienced in launching B2B SaaS tools. Passionate about solving operational bottlenecks using modern infrastructure and AI.
